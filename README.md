@@ -7,3 +7,5 @@ Most of the quote generators required a button with on.click to call the js func
 This piece of code will keep on shuffling the quotes from the inventory after a fixed duration without any human interference.
 
 You can choose to seed the <script> part into a seperate js file. Since I didn't have many js elements, I kept the whole function in <script> to demonstrate fluency.
+
+You can add more quotes simply by adding them to the quotes array. Just remember to follow the footsteps.
